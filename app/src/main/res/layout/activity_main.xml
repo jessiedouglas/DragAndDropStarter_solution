@@ -24,7 +24,7 @@
             android:id="@+id/drag_box"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_margin="10dpi"
+            android:layout_margin="10dp"
             android:layout_weight="1"
             android:background="@android:color/holo_green_light"
             android:backgroundTint="@android:color/holo_green_light"
